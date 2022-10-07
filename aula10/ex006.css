@@ -1,0 +1,10 @@
+div{
+    font: normal 18pt "Times New Roman";
+    background: rgb(147, 238, 62);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    
+}

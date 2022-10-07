@@ -1,0 +1,11 @@
+body{
+    font: normal 17pt "Times New Roman", "Times", serif;
+    background: rgb(23, 85, 126);
+}
+input{
+    font: normal 15pt "Times New Roman", "Times", serif;
+    width: 100px;
+}
+#res{
+    margin-top: 25px;
+}
