@@ -5,7 +5,10 @@ body{
 input{
     font: normal 15pt "Times New Roman", "Times", serif;
     width: 100px;
+    border-radius: 2em;
+    background: rgb(70, 49, 12);
 }
 #res{
     margin-top: 25px;
+    color: green;
 }
